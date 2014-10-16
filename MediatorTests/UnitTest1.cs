@@ -15,6 +15,7 @@ namespace MediatorTests
             Keyboard keyboard = new Keyboard(compsys);
             Screen screen = new Screen(compsys);
             computer.SwitchOn();
+            screen.TurnOn();
             keyboard.KeyPressed('a');
 
             Assert.AreEqual('a', screen.DisplayCharacter());

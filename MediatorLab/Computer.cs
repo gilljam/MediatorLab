@@ -8,21 +8,23 @@ namespace MediatorLib
 {
     public class Computer
     {
+
         private ComputerSystem compsys;
 
         public Computer(ComputerSystem cs)
         {
             compsys = cs;
+            compsys.RegisterComputer(this);
         }
 
         public void SwitchOn()
         {
-
+            compsys.ComputerSwitchedOn();
         }
 
         public void SwitchOff()
         {
-
+            compsys.ComputerSwitchedOff();
         }
     }
 }
