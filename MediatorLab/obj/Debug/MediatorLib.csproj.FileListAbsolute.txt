@@ -1,0 +1,5 @@
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\MediatorLab\MediatorLab\bin\Debug\MediatorLab.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\MediatorLab\MediatorLab\bin\Debug\MediatorLab.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\MediatorLab\MediatorLab\obj\Debug\MediatorLib.csprojResolveAssemblyReference.cache
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\MediatorLab\MediatorLab\obj\Debug\MediatorLab.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\MediatorLab\MediatorLab\obj\Debug\MediatorLab.pdb
